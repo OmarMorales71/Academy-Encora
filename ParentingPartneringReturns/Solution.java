@@ -4,9 +4,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-// in https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9 
-//change the class name to "Solution" and remove the public -> class Solution{ 
-public class ParentingPartneringReturns {
+
+class Solution {
 
     public static void main(String[] args) throws IOException {
 
